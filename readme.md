@@ -1,4 +1,4 @@
-# Three.js Journey
+# Three.js Lights Playground
 
 A aplicação foi criada para quem, assim como eu, quer ter um ambiente de testes guiado por um gui de controles para testar posições e comportamentos com o codigo rodadando. E não perder tempo alterando e atualizando preview. :) 
 
